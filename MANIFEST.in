@@ -1,2 +1,2 @@
-include LICENSE
-include requirements.txt
+include *.txt *.ini *.cfg *.rst
+recursive-include py_eve_intel_server *.ico *.png *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml
